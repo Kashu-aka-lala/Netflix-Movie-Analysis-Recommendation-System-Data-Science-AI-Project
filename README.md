@@ -37,10 +37,4 @@ Recommends tailored Netflix content with full details:
 💡 Why This Project?
 This project showcases how Data Science & AI can uncover insights and automate intelligent decisions using real-world entertainment data.
 
-🔧 Great for:
 
-Portfolio/Resume Building
-
-Showcasing Practical AI/DS Skills
-
-Deploying End-to-End ML Systems
