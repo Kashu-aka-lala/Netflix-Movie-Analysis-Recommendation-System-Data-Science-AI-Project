@@ -1,13 +1,13 @@
 <img width="600" height="400" alt="content_type_distribution" src="https://github.com/user-attachments/assets/188ff45f-daf1-4679-947a-c3a6e166f4e1" /># Netflix-Movie-Analysis-Recommendation-System-Data-Science-AI-Project
 This project is a complete Netflix Data Analysis and Recommendation System that lets you explore, visualize, and interact with Netflix’s content data like never before!
-<img width="857" height="589" alt="Streamlit" src="https://github.com/user-attachments/assets/152ffab6-3f44-4e3e-ae25-6f3326fd3290" />
+
+All visualizations saved as high-quality PNGs
 
 📊 1. Data Analysis & Visualizations
 Top 10 countries producing content on Netflix
 <img width="3000" height="1800" alt="top_10_countries" src="https://github.com/user-attachments/assets/0482b6fc-89e9-419c-a46a-d45c9c403a2f" />
 
 
-All visualizations saved as high-quality PNGs
  
 Content distribution by type (TV Shows vs Movies)
 <img width="600" height="400" alt="content_type_distribution" src="https://github.com/user-attachments/assets/e67aef8a-bab9-4ee2-a50e-8b87ed64f8ca" />
@@ -21,6 +21,8 @@ Maturity ratings, durations, and much more!
 
 
 🤖 2. Smart Recommendation System
+<img width="857" height="589" alt="Streamlit" src="https://github.com/user-attachments/assets/f0fc3aa1-131f-44a0-91dc-7a2d868f7c39" />
+
 Built with the power of machine learning and intelligent filtering, this tool:
 
 Accepts filters like Genre, Country, Maturity Rating, and Type
